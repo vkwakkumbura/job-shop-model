@@ -1,0 +1,40 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: METROPOLITAN
+ * Creation Date: Jan 8, 2021 at 6:46:44 AM
+ *********************************************/
+
+
+
+nbJobs = 3;
+nbMchs = 3;
+
+//nbLevels = 2;
+
+Op = [
+ [ <2,2>, <0,1>, <1,2>],
+ [ <1,1>, <2,2>, <0,2> ],
+ [ <2,1>, <1,2>, <0,1>],
+ ];
+
+Ops = [
+ [ <2,2>, <0,1>, <1,2>],
+ [ <1,1>, <2,2>, <0,2> ],
+ [ <2,1>, <1,2>, <0,1>],
+ 
+
+];
+
+//SheetConnection sheetInput("3DimArray.xls");
+//
+//nb2 from SheetRead(sheetInput,"data!B23:G25");
+
+
+
+
+
+//tuple Operation {
+//  int mch; // Machine
+//  int pt;  // Processing time
+//};
+
